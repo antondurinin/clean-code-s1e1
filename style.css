@@ -46,10 +46,12 @@ figure {
   margin: 0;
   padding: 0px;
 }
-.list-item,.list-name {
+.list-item,
+.list-name {
   list-style: none;
 }
-.task.text,.button {
+.task.text,
+.button {
   outline: none;
 }
 .button {
